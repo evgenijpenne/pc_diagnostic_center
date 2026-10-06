@@ -1,0 +1,14 @@
+part_id,type,model,price,stock,socket,tdp,drive_type,tbw
+CPU01,cpu,Intel Core i9-13900K,580.0,8,LGA1700,125,,
+CPU02,cpu,AMD Ryzen 7 7800X3D,440.0,15,AM5,120,,
+CPU03,cpu,Intel Core i5-13400F,200.0,20,LGA1700,65,,
+CPU04,cpu,AMD Ryzen 5 5600,130.0,30,AM4,65,,
+CPU05,cpu,Intel Core i3-12100F,95.0,25,LGA1700,58,,
+CPU06,cpu,AMD Ryzen 9 7950X,550.0,5,AM5,170,,
+CPU07,cpu,Braked Pentium,-30.0,2,LGA1200,50,,
+SSD01,storage,Samsung 980 Pro 1TB,110.0,40,,,NVMe,600
+SSD02,storage,Kingston NV2 500GB,45.0,60,,,NVMe,160
+SSD03,storage,Crucial MX500 1TB,80.0,25,,,SATA,360
+SSD04,storage,WD Black SN850X 2TB,160.0,12,,,NVMe,1200
+HDD01,storage,Seagate BarraCuda 2TB,55.0,35,,,HDD,300
+HDD02,storage,WD Blue 4TB,90.0,18,,,HDD,450
